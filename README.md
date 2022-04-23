@@ -6,20 +6,20 @@
 
 ## Problems
 
-1. Outspeed
+1. [Outspeed](https://www.hackerrank.com/contests/code-buffer-s22/challenges/outspeed)
    * Problem Setter- [Sagar Pathare](https://www.linkedin.com/in/sspathare97/)
    * Required Knowledge- LCM
-   * Time Complexity- O(n)
+   * Time Complexity- O(n*logn)
    * Approach- Find the LCM of all numbers
    * Setter's Solutions
      * [C++](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/1-outspeed/author-solutions/main.cpp)
      * [Python](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/1-outspeed/author-solutions/main.py)
 
-2. Graph Fight
+2. [Graph Fight](https://www.hackerrank.com/contests/code-buffer-s22/challenges/graph-fight)
    * Problem Setter- [Sachin Sharma](https://www.linkedin.com/in/sachin-sharma-625848a9/)
    * Required Knowledge- Graph, Tree
    * Time Complexity- O(n)
-   * Approach- Check whether the sum of all degrees is $2*(n-1)$ or not
+   * Approach- Check whether the sum of all degrees is 2*(n-1) or not
    * Setter's Solutions
      * [Java](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/2-graph-fight/author-solutions/main.java)
    * Problem Tester- [Sagar Pathare](https://www.linkedin.com/in/sspathare97/)
@@ -27,7 +27,7 @@
      * [C++](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/2-graph-fight/tester-solutions/main.cpp)
      * [Python](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/2-graph-fight/tester-solutions/main.py)
 
-3. Lazy Gilfoyle
+3. [Lazy Gilfoyle](https://www.hackerrank.com/contests/code-buffer-s22/challenges/lazy-gilfoyle)
    * Problem Setter- [Sagar Pathare](https://www.linkedin.com/in/sspathare97/)
    * Required Knowledge- Monotonic Stack
    * Time Complexity- O(n)
@@ -36,7 +36,7 @@
      * [C++](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/3-lazy-gilfoyle/author-solutions/main.cpp)
      * [Python](https://github.com/cs-gpdc/code-buffer-s22-solutions/blob/main/3-lazy-gilfoyle/author-solutions/main.py)
 
-4. Bo and Passcodes
+4. [Bo and Passcodes](https://www.hackerrank.com/contests/code-buffer-s22/challenges/bo-and-passcode)
    * Problem Setter- [Sachin Sharma](https://www.linkedin.com/in/sachin-sharma-625848a9/)
    * Required Knowledge- DP, Graph, Shortest Path, Floyd–Warshall, Greedy
    * Time Complexity- O(n)
